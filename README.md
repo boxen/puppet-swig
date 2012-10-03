@@ -1,4 +1,12 @@
-# Puppet swig for Boxen
+# Swig Puppet Module for Boxen
 
-FIXME: update me bro
+Requires the following boxen modules:
 
+* `boxen`
+* `pcre`
+
+## Usage
+
+```puppet
+include swig
+```
