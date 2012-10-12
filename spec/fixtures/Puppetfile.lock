@@ -1,0 +1,8 @@
+GITHUBTARBALL
+  remote: boxen/puppet-pcre
+  specs:
+    pcre (0.0.1)
+
+DEPENDENCIES
+  pcre (= 0.0.1)
+
