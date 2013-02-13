@@ -4,7 +4,7 @@
 #
 #   include swig
 class swig {
-  require pcre
+  include pcre
 
   package { 'swig':
     require => Package['pcre']
